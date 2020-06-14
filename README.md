@@ -2,4 +2,4 @@ This project is an online portfolio for my profile, developed using ReactJs. The
 Please refer the following link:
 https://my-portfolio-praveenswamy.herokuapp.com/
 
-I referred a ReactJs tutorial - 'Create React App' to build my webapp.
+This project is developed using 'Create React App' tutorial as baseline.
